@@ -428,7 +428,7 @@ Les animations CSS peuvent être liées au scroll de deux façons via CSS:
 - scroll progress timeline: la timeline de l'animation est directement connectée au défilement (scroll) vertical ou horizontal d'un container
 - view progress timeline: l'animation est directement liée à la position d'un élément dans le défilement (scroll) d'un container
 
-En attendant le dévelopement d'outils dédiés dans les outiuls de dévelopement des navigateurs, [des outils de visualisation](https://scroll-driven-animations.style/#tools) permettent comprendre en détail le fonctionnment de ce type d'animations.
+En attendant le dévelopement d'outils dédiés dans les outiuls (faute de frappe je pense ^^) de dévelopement des navigateurs, [des outils de visualisation](https://scroll-driven-animations.style/#tools) permettent comprendre en détail le fonctionnment de ce type d'animations.
 
 Essentiellement, ces animations fonctionnent en utilisant `animation-timeline` et `animation-range` pour lier des animations css en keyframes aux éléments à animer.
 
